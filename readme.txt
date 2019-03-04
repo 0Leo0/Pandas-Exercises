@@ -1,4 +1,4 @@
-这是pandas 练习
+通过练习学习pandas
 
 参考链接：
 1、https://github.com/justmarkham
